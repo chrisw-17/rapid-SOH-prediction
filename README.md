@@ -3,7 +3,7 @@
 
 ---
 
-**This repository accompanies the scientific paper:**
+**This repository accompanies the paper:**
 
 > **Fast state of health evaluation of lithium-ion batteries using EIS for second-life and recycling assessment**  
 > *Authors: Christopher Wett, Jörg Lampe, Joey Danz, Thomas Seeger, Bugra Turan*  
