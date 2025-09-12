@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 """
-Neural Network for State of Health (SOH) Prediction from EIS Data
+Neural Network for rapid State of Health (SOH) Prediction from EIS Data
 
 This script implements a fully connected neural network for predicting battery 
 State of Health (SOH) from Electrochemical Impedance Spectroscopy (EIS) data.
-The model processes impedance spectra from multiple datasets and predicts SOH
-with high accuracy.
+The model processes impedance spectra from multiple datasets and predicts SOH.
 
 Dependencies:
     - numpy
@@ -18,8 +17,8 @@ Dependencies:
     - scienceplots
     - keras-tuner (optional, for hyperparameter tuning)
 
-Author: [Your Name]
-Date: [Date]
+Author: Christopher Wett
+Date: 09/2025
 """
 
 import numpy as np
@@ -38,7 +37,7 @@ from tensorflow.keras import optimizers, callbacks
 import visualkeras
 import scienceplots
 
-# Set plotting style for publication-quality figures
+# Set plotting style
 plt.style.use(['science', 'notebook'])
 
 # Optional imports for hyperparameter tuning
