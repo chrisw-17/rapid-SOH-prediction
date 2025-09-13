@@ -14,7 +14,7 @@
 
 ## Overview
 
-This repository provides a complete workflow for rapid State of Health (SOH) estimation of lithium-ion batteries using Electrochemical Impedance Spectroscopy (EIS) and neural network models. The code and data enable reproducible analysis, model training, and evaluation as described in the associated publication.
+This repository provides a complete workflow for rapid State of Health (SOH) estimation of lithium-ion batteries using Electrochemical Impedance Spectroscopy (EIS) and neural network models. The code and data enable reproducible analysis, model training, and evaluation for the fully connected neural network model as described in the associated publication.
 
 ## Features
 
@@ -27,7 +27,7 @@ This repository provides a complete workflow for rapid State of Health (SOH) est
 ## Repository Structure
 
 ```text
-├── Neural_Network_SOH.py         # Main Python script for SOH prediction
+├── Neural_Network_SOH.py         # Main Python script for SOH prediction showcased on a FCNN model
 ├── Experimental_Data_RH/         # Singlesine EIS data and SOH values (RH Köln)
 ├── Multisine_EIS_RH/             # Multisine EIS data and SOH values (RH Köln)
 ├── Stanford/                     # Public EIS data (see reference below)
@@ -69,7 +69,7 @@ If you use the code or data, please cite the associated paper above. For externa
 
 ## Support & Contact
 
-For questions, bug reports, or collaboration, please contact the authors via [contact placeholder] or open an issue on GitHub.
+For questions, bug reports, or collaboration, please contact the author.
 
 ## License
 
