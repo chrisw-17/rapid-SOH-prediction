@@ -5,6 +5,5 @@ matplotlib>=3.3
 seaborn>=0.11
 tensorflow>=2.8
 scikit-learn>=1.0
-visualkeras>=0.0.2
 scienceplots>=1.0
 keras-tuner>=1.0  # Optional, for hyperparameter tuning
