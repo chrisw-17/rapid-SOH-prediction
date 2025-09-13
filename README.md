@@ -43,11 +43,9 @@ This repository provides a complete workflow for rapid State of Health (SOH) est
 	git clone https://github.com/[your-username]/eis-soh-sustain.git
 	```
 2. **Install dependencies:**
-	```bash
-	pip install -r Requirements.txt
-	```
+	- Install dependencies as specified in Requirements.txt
 3. **Prepare your data:**
-	- Place your EIS data and SOH values in the appropriate folders.
+	- If you want to add your own data: Place your EIS data and corresponding SOH values in the appropriate folders.
 4. **Run the main script:**
 	```bash
 	python Neural_Network_SOH.py
