@@ -40,7 +40,7 @@ This repository provides a complete workflow for rapid State of Health (SOH) est
 
 1. **Clone the repository:**
 	```bash
-	git clone https://github.com/[your-username]/eis-soh-sustain.git
+	git clone https://github.com/chrisw-17/eis-soh-sustain.git
 	```
 2. **Install dependencies:**
 	- Install dependencies as specified in Requirements.txt
