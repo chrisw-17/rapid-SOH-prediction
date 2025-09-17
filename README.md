@@ -33,7 +33,7 @@ This repository provides a complete workflow for rapid State of Health (SOH) est
 ├── Stanford/                     # Public EIS data (see reference below)
 ├── Warwick/                      # Public EIS data (see reference below)
 ├── Saved_NN_Models/              # Pretrained neural network models
-├── Requirements.txt              # Required Python packages
+├── requirements.txt              # Required Python packages
 ```
 
 ## Quick Start
@@ -43,7 +43,7 @@ This repository provides a complete workflow for rapid State of Health (SOH) est
 	git clone https://github.com/chrisw-17/eis-soh-sustain.git
 	```
 2. **Install dependencies:**
-	- Install dependencies as specified in Requirements.txt
+	- Install dependencies as specified in requirements.txt
 3. **Prepare your data:**
 	- If you want to add your own data: Place your EIS data and corresponding SOH values in the appropriate folders.
 4. **Run the main script:**
