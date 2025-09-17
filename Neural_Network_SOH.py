@@ -13,7 +13,6 @@ Dependencies:
     - tensorflow
     - matplotlib
     - seaborn
-    - visualkeras
     - scienceplots
     - keras-tuner (optional, for hyperparameter tuning)
 
@@ -34,7 +33,6 @@ from sklearn.preprocessing import MinMaxScaler
 from tensorflow.keras.models import load_model, Sequential
 from tensorflow.keras.layers import Input, Dense, Dropout
 from tensorflow.keras import optimizers, callbacks
-import visualkeras
 import scienceplots
 
 # Set plotting style
